@@ -4,7 +4,7 @@ A fine-tuned YOLOv10n model trained to detect safety helmets, bare heads, and pe
 
 Below is the deployed application interface:
 
-![helmet detection app](imgs\appUI.png)
+![helmet detection app](imgs/appUI.png)
 
 ## Overview
 
