@@ -3,7 +3,8 @@
 A fine-tuned YOLOv10n model trained to detect safety helmets, bare heads, and persons in workplace images. Includes a Streamlit web app for interactive inference.
 
 Below is the deployed application interface:
-![helmet detection app]('imgs\appUI.png')
+
+![helmet detection app](imgs\appUI.png)
 
 ## Overview
 
